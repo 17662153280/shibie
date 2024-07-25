@@ -100,7 +100,7 @@ shibie/
 ## 网页截图
 以下是应用程序的界面截图：
 
-![首页](shibie/shibie/screenshot/web.jpeg)
+![首页](shibie/screenshot/web.jpeg)
 
 
 ## 贡献
