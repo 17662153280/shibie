@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "评论识别", "评论识别\评论识别.pyproj", "{CD348C80-EDD3-4093-8807-253A2C59AFBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD348C80-EDD3-4093-8807-253A2C59AFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD348C80-EDD3-4093-8807-253A2C59AFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E8FBC13-6EB8-4FF5-AEBA-1392F5D2C223}
+	EndGlobalSection
+EndGlobal
